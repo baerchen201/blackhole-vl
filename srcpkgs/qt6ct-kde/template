@@ -4,7 +4,7 @@ version=0.11
 revision=1
 build_style=cmake
 configure_args="-DPLUGINDIR=/usr/lib/qt6/plugins"
-hostmakedepends="qt6-tools qt6-base"
+hostmakedepends="qt6-tools qt6-base kf6-kconfig"
 makedepends="qt6-base-private-devel qt6-declarative-devel kf6-kconfig-devel kf6-kcolorscheme-devel kf6-kiconthemes-devel"
 depends="qt6-svg"
 conflicts="qt6ct>=0"
