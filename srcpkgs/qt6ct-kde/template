@@ -13,7 +13,7 @@ provides="qt6ct-${version}_${revision}"
 short_desc="Qt6 Configuration Tool, patched to work correctly with KDE applications (ported from AUR)"
 maintainer="baer1 <videocreator@outlook.de>"
 license="BSD-2-Clause"
-homepage="https://aur.archlinux.org/packages/qt6ct-kde"
+homepage="https://www.opencode.net/trialuser/qt6ct"
 distfiles="https://www.opencode.net/trialuser/qt6ct/-/archive/${version}/qt6ct-${version}.tar.gz"
 checksum=32cd06cb4e801362676194ec6c3378498c81eb9484c57870fee3f7d5952ebe1f
 
